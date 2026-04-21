@@ -75,4 +75,4 @@ RANGE = 300
 The sensor sends raw pulse duration to the script. A lower `RANGE` value means the intruder must be closer to trigger the camera.
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
